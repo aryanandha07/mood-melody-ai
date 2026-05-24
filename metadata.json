@@ -1,0 +1,6 @@
+{
+  "name": "Mood Melody",
+  "description": "An immersive AI-powered music recommendation app that captures your mood and customizes your soundscapes, integrated with Spotify content and previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
